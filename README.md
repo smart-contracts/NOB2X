@@ -107,10 +107,10 @@
 - [QuickBT](https://twitter.com/QuickBT/status/899159626725302272) - Buy Bitcoin with Debit, Credit, or Cash
 - [Samourai Wallet](https://samouraiwallet.com) - Android Bitcoin wallet
 - Satoshi Counter - Canadian OTC Bitcoin exchange
-- Satoshi Tango - Latin American Bitcoin exchange
-- [Signatura](https://signatura.co) - Blockchain-based digital signatures
+- Satoshi Tango - Latin American Bitcoin exchange- [Signatura](https://signatura.co) - Blockchain-based digital signatures
 - [Simple Bitcoin Wallet](https://btcontract.com/#trusted-node) - Android Bitcoin wallet
 - Slush Pool - Bitcoin mining pool
+- [Smart Contracts](https://smart-contracts.ru) - Smart Contract Russian Community
 - SurBitcoin - Venezuela's largest Bitcoin exchange
 - [TenX](https://www.tenx.tech/) - Bitcoin wallet with physical debit card
 - TREZOR - Hardware Bitcoin wallet
